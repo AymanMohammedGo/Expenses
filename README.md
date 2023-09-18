@@ -1,9 +1,9 @@
-Demo: https://aymanmohammedgo.github.io/Expenses/ /
-Features in the project :/
-Add daily payments/
-Drawing for the months/
-Filter by year/
-Attractive design/
+Demo: https://aymanmohammedgo.github.io/Expenses/ \
+Features in the project :\
+Add daily payments\
+Drawing for the months\
+Filter by year\
+Attractive design\
 
 ### `npm start`
 
